@@ -1,7 +1,7 @@
 # cse210-05
 
 # Cycle
-Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them.
+Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them. Each player's trail grows as they move. Players try to maneuver so the opponent collides with their trail.
 
 ---
 ## Getting Started
